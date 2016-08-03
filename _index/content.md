@@ -1,28 +1,28 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://avatars0.githubusercontent.com/u/17390340?v=3&s=460"
+name: "Thorp Gorp"
+title: "King of Florp"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Thorp is a king with 5 years of experience leading armies who rain death upon you. Prior to being king, Thorp has 6 years of experience helping the disenfranchised.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+His accomplishments include designing and building career-oriented orphans at home while managing an international team of over 180,000,000,000, building online courses for public urination as a freelance consultant, and founding Fart Doctor, M.D., a non-profit that provides modern flatchulence training for the elderly.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+King Gorp is available for projects on a whenever he feels like it basis. Some of the services he provides include:
 
 #### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+* Eating
+* Pillaging
+* Information Dissemination
+* Long horse training
+* Being grumpy
 
 #### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
+* Egg Organization
+* How to fly
+* How to gentrify
 * Interviewing, hiring, and onboarding process creation
 
 #### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+* Horse development
+* Process creation for erotic novel authoring teams
